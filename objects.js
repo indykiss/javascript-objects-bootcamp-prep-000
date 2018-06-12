@@ -1,6 +1,6 @@
 
 
-var playlist = {coldplay: yellow, eminem: "rap god"}
+var playlist = {coldplay: "yellow", eminem: "rap god"}
 
 function updatePlaylist(object, artist, song) {
   object.artist = ["song"]
